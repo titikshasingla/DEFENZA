@@ -1,0 +1,8 @@
+{
+  "name": "DEFENZA - CIA Triad Threat Assessment",
+  "description": "Interactive cybersecurity operations briefing, adaptive intelligence profile, and timed threat assessment mission on the CIA Triad.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

@@ -1,2 +1,20 @@
-# DEFENZA
-Most cybersecurity courses teach everyone the same thing. DEFENZA tests you first, then builds a personalised path: lessons, real-world scenarios and a checkpoint you must clear to level up. No skipping ahead. Stuck on a term? Help Buddy, your built-in AI mentor, explains it. Learn cybersecurity. Defend like a pro.
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
+</div>
+
+# Run and deploy your AI Studio app
+
+This contains everything you need to run your app locally.
+
+View your app in AI Studio: https://ai.studio/apps/87aad9ef-de78-4fe6-8abe-764fb803fc99
+
+## Run Locally
+
+**Prerequisites:**  Node.js
+
+
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`
